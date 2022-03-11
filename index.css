@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.head {
+    color: #690cb0;
+    font-size: 70px;
+}
+
+.para {
+    color: #3e4c59;
+    font-size: 20px;
+    width: 100%;
+    padding-top: 3;
+}
+
+.img {
+    height: 75px;
+    width: 75px;
+}
+
+.div_head {
+    font-size: 58px;
+}
+
+.div-con {
+    background-color: #f2ebfe;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.paraErr {
+    color: #3e4c59;
+    font-size: 39px;
+}
+
+.btn1{
+    background-color: white;
+    width: 100px;
+    color: black;
+}
+
+.btn2 {
+    background-color: #690cb0;
+    width: 100px;
+}
+
+#spinner {
+    height: 90vh;
+    padding: 50px;
+    border-radius: 6px;
+}
+#quoteInput{
+    border-radius: 6px;
+    border-color: goldenrod;
+    border-style: solid;
+}
+.btn2:hover:hover{
+    background-color:green;
+}
